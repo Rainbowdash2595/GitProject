@@ -795,3 +795,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.05-23.03.51:079][999]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.05-23.03.51:079][999]LogContentValidation: Display: Validating World /Game/Menu.Menu
 [2022.07.05-23.03.51:080][999]LogContentValidation: Display: Validating Material /Game/Start_Mat.Start_Mat
+[2022.07.05-23.13.14:066][452]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.07.05-23.13.18:157][722]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.07.05-23.13.18:163][722]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.05-23.13.18:167][722]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.05-23.13.18:194][723]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.07.05-23.13.26:431][690]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_WD
+[2022.07.05-23.13.26:616][690]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.05-23.13.28:800][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.05-23.13.29:707][932]LogSlate: Window 'Save Content' being destroyed
+[2022.07.05-23.13.29:856][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_WD" FILE="../../../../../../UE5Project/GitProject/Content/UI_WD.uasset" SILENT=true
+[2022.07.05-23.13.29:859][932]LogSavePackage: Moving output files for package: /Game/UI_WD
+[2022.07.05-23.13.29:859][932]LogSavePackage: Moving '../../../../../../UE5Project/GitProject/Saved/UI_WD38364513424F0237A2DB46808DA4854B.tmp' to '../../../../../../UE5Project/GitProject/Content/UI_WD.uasset'
+[2022.07.05-23.13.30:058][932]AssetCheck: New page: Asset Save: UI_WD
+[2022.07.05-23.13.30:058][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI_WD.UI_WD
